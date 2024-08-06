@@ -1,0 +1,481 @@
+,Brand,Processor,Processordetails,Ram & ssd,Prices,Ratings,Numofratings,Reviewcounts
+0,SAMSUNG,Intel,Intel Core 5 Processor,8 GB 512 GB,68990,4.2,60,7
+1,CHUWI,Intel,Intel Core i5 Processor,16 GB 512 GB,24990,4.2,146,25
+2,Acer,Intel,Intel Core i3 Processor,8 GB 512 GB,26990,4.2,6867,589
+3,DELL,Intel,Intel Core i3 Processor,8 GB 512 GB,35890,4.2,1762,141
+4,HP,AMD,AMD Ryzen 3 Quad Core Processor,8 GB 512 GB,32990,4.2,4058,375
+5,Lenovo,AMD,AMD Ryzen 3 Quad Core Processor,8 GB 512 GB,32990,5.0,5,0
+6,HP,AMD,AMD Ryzen 5 Hexa Core Processor,16 GB 512 GB,42990,4.3,3236,255
+7,SAMSUNG,Intel,Intel Core Ultra 5 Processor,16 GB 512 GB,131990,3.4,8,0
+8,Lenovo,AMD,AMD Ryzen 3 Quad Core Processor,8 GB 512 GB,30990,4.2,0,0
+9,HP,AMD,AMD Ryzen 3 Quad Core Processor,8 GB 512 GB,31980,4.3,4011,464
+10,SAMSUNG,Intel,Intel Core Ultra 7 Processor,16 GB 512 GB,149990,4.7,22,2
+11,SAMSUNG,Intel,Intel Core 5 Processor,16 GB 512 GB,72990,4.2,60,7
+12,Acer,Intel,Intel Core i5 Processor,16 GB 512 GB,59990,4.3,1052,105
+13,Lenovo,AMD,AMD Ryzen 7 Octa Core Processor,16 GB 512 GB,40990,4.4,12,2
+14,ASUS,Intel,Intel Core i3 Processor,8 GB 512 GB,36990,4.3,3655,314
+15,HP,Intel,Intel Core i3 Processor,8 GB 512 GB,32490,4.2,299,12
+16,SAMSUNG,Intel,Intel Core Ultra 7 Processor,32 GB,181990,3.8,10,1
+17,SAMSUNG,Intel,Intel Core 5 Processor,8 GB 512 GB,68990,4.2,60,7
+18,HP,AMD,AMD Athlon Dual Core Processor,4 GB 256 GB,19985,3.9,1449,113
+19,ZEBRONICS,Intel,Intel Core i5 Processor,16 GB 512 GB,34990,3.8,433,66
+20,SAMSUNG,Intel,Intel Core Ultra 7 Processor,32 GB,171990,3.8,10,1
+21,SAMSUNG,Intel,Intel Core Ultra 7 Processor,16 GB 512 GB,139990,4.7,22,2
+22,DELL,Intel,Intel Core i5 Processor,8 GB 512 GB,46780,4.2,435,31
+23,HP,AMD,AMD Ryzen 5 Hexa Core Processor,8 GB 512 GB,39490,4.3,7137,558
+24,Acer,Intel,Intel Core i3 Processor,16 GB 512 GB,34990,4.1,192,11
+25,Lenovo,Intel,Intel Celeron Dual Core Processor,8 GB 256 GB,26490,4.1,2576,228
+26,SAMSUNG,Intel,Intel Core 5 Processor,8 GB 512 GB,68990,4.2,60,7
+27,SAMSUNG,Intel,Intel Core Ultra 5 Processor,16 GB 512 GB,131990,3.4,8,0
+28,Apple,Apple,Apple M1 Processor,8 GB 256 GB,71990,4.7,16199,1302
+29,ASUS,AMD,AMD Ryzen 3 Quad Core Processor,8 GB 512 GB,41990,4.4,2011,243
+30,AXL,Intel,Intel Celeron Dual Core Processor,4 GB 256 GB,17990,3.8,41,4
+31,SAMSUNG,Intel,Intel Core Ultra 7 Processor,16 GB 512 GB,149990,4.7,22,2
+32,Lenovo,Intel,Intel Celeron Dual Core Processor,8 GB 256 GB,22990,4.0,2980,225
+33,ASUS,AMD,AMD Ryzen 7 Octa Core Processor,16 GB 512 GB,60990,4.3,340,20
+34,HP,AMD,AMD Ryzen 3 Dual Core Processor,8 GB 512 GB,26690,4.2,45,2
+35,HP,Intel,Intel Core i3 Processor,8 GB 512 GB,36490,4.6,5,0
+36,SAMSUNG,Intel,Intel Core 7 Processor,16 GB 512 GB,82990,4.6,25,2
+37,SAMSUNG,Intel,Intel Core 5 Processor,16 GB 512 GB,72990,4.2,60,7
+38,SAMSUNG,Qualcomm,Qualcomm Snapdragon 7c Gen 2 Processor,4 GB,28990,3.9,397,67
+39,DELL,Intel,Intel Core i5 Processor,8 GB 512 GB,47990,4.2,435,31
+40,SAMSUNG,Intel,Intel Core Ultra 7 Processor,32 GB,181990,3.8,10,1
+41,SAMSUNG,Intel,Intel Core 5 Processor,8 GB 512 GB,68990,4.2,60,7
+42,Acer,Intel,Intel Celeron Dual Core Processor,8 GB 512 GB,20990,3.7,59,7
+43,ASUS,Intel,Intel Celeron Dual Core Processor,8 GB,26990,4.4,59,5
+44,ASUS,Intel,Intel Core i3 Processor,8 GB 512 GB,36990,4.3,399,54
+45,HP,AMD,AMD Athlon Dual Core Processor,8 GB 256 GB,22900,3.7,121,8
+46,SAMSUNG,Intel,Intel Core Ultra 7 Processor,32 GB,171990,3.8,10,1
+47,SAMSUNG,Intel,Intel Core 7 Processor,16 GB 512 GB,82990,4.6,25,2
+48,DELL,Intel,Intel Core i3 Processor,8 GB 512 GB,38499,3.3,15,1
+49,HP,Intel,Intel Core i3 Processor,16 GB 512 GB,42990,4.2,5495,483
+50,ZEBRONICS,Intel,Intel Core i3 Processor,8 GB 512 GB,27990,3.9,221,23
+51,ASUS,Intel,Intel Core i3 Processor,16 GB 512 GB,40990,4.3,3655,314
+52,Lenovo,AMD,AMD Ryzen 7 Octa Core Processor,16 GB 512 GB,47990,4.2,507,45
+53,Lenovo,Intel,Intel Core i3 Processor,8 GB 512 GB,38490,4.6,8,0
+54,Acer,Intel,Intel Core i5 Processor,16 GB 512 GB,41990,4.1,241,18
+55,MSI,AMD,AMD Ryzen 5 Hexa Core Processor,8 GB 512 GB,34490,4.3,1873,233
+56,HP,Intel,Intel Celeron Quad Core Processor,4 GB,19990,4.0,1312,102
+57,ASUS,Intel,Intel Core i5 Processor,16 GB 512 GB,51990,4.2,1881,105
+58,ASUS,Intel,Intel Core i3 Processor,8 GB 512 GB,38990,4.1,399,41
+59,Apple,Apple,Apple M2 Processor,8 GB 256 GB,92990,4.7,6612,480
+60,DELL,Processor, FHD WVA AG 120Hz 250 nits Narrow BorderIntel Core i3 Processor,8GB 512GB 8 GB 512 GB,35390,4.1,1727,193
+61,HP,Intel,Intel Core i5 Processor,8 GB 512 GB,37490,3.7,48,2
+62,Lenovo,AMD,AMD Ryzen 5 Quad Core Processor,8 GB 512 GB,34990,4.4,21,1
+63,HP,Intel,Intel Core i3 Processor,8 GB 512 GB,36990,4.2,3079,221
+64,ASUS,Intel,Intel Core i5 Processor,16 GB 512 GB,62990,4.2,0,0
+65,MSI,Intel,Intel Core i5 Processor,8 GB 512 GB,37800,4.2,900,109
+66,Acer,Intel,Intel Core i5 Processor,16 GB 512 GB,53990,4.2,2083,185
+67,DELL,Intel,Intel Core i3 Processor,8 GB 512 GB,36490,4.2,1762,141
+68,Lenovo,AMD,AMD Ryzen 3 Quad Core Processor,8 GB 512 GB,27990,4.3,56,9
+69,Lenovo,Intel,Intel Core i3 Processor,8 GB,32191,4.1,319,29
+70,ASUS,Intel,Intel Core i7 Processor,16 GB,69990,4.2,0,0
+71,Acer,Intel,Intel Core i3 Processor,8 GB 512 GB,31990,4.1,192,11
+72,ASUS,Intel,Intel Core i7 Processor,16 GB,69990,4.2,0,0
+73,Infinix,Intel,Intel Core i3 Processor,16 GB 512 GB,32990,4.2,119,24
+74,Lenovo,AMD,AMD Ryzen 5 Hexa Core Processor,8 GB 512 GB,34990,3.8,77,7
+75,ASUS,Intel,Intel Core i3 Processor,8 GB 512 GB,35990,4.1,81,6
+76,SAMSUNG,Intel,Intel Core 5 Processor,8 GB 512 GB,68990,4.2,60,7
+77,CHUWI,Intel,Intel Core i5 Processor,16 GB 512 GB,24990,4.2,146,25
+78,Lenovo,Intel,Intel Core i3 Processor,8 GB 256 GB,31990,4.2,714,38
+79,Lenovo,Intel,Intel Core i3 Processor,8 GB 512 GB,32499,4.1,330,18
+80,SAMSUNG,Intel,Intel Core Ultra 5 Processor,16 GB 512 GB,131990,3.4,8,0
+81,SAMSUNG,Intel,Intel Core Ultra 7 Processor,16 GB 512 GB,149990,4.7,22,2
+82,ASUS,AMD,AMD Ryzen 3 Quad Core Processor,8 GB 512 GB,34990,4.2,4024,417
+83,Acer,Intel,Intel Core i3 Processor,8 GB 512 GB,28990,4.1,343,31
+84,CHUWI,Intel,Intel Celeron Quad Core Processor,8 GB 256 GB,21990,4.1,197,31
+85,ASUS,Intel,Intel Core i3 Processor,8 GB 512 GB,36990,4.3,3655,314
+86,SAMSUNG,Intel,Intel Core 7 Processor,16 GB 512 GB,82990,4.6,25,2
+87,AXL,Intel,Intel Celeron Dual Core Processor,4 GB 256 GB,17990,3.8,41,4
+88,DELL,AMD,AMD Ryzen 5 Quad Core Processor,8 GB 512 GB,36990,4.0,37,4
+89,HP,AMD,AMD Athlon Dual Core Processor,4 GB 256 GB,18999,3.9,1449,113
+90,SAMSUNG,Intel,Intel Core Ultra 7 Processor,32 GB,181990,3.8,10,1
+91,SAMSUNG,Intel,Intel Core Ultra 7 Processor,32 GB,171990,3.8,10,1
+92,Acer,Intel,Intel Core i3 Processor,8 GB 512 GB,31990,4.1,192,11
+93,ASUS,AMD,AMD Ryzen 5 Hexa Core Processor,16 GB,51990,4.4,131,13
+94,HP,AMD,AMD Ryzen 3 Dual Core Processor,8 GB 512 GB,26480,4.0,488,32
+95,ASUS,Intel,Intel Core i5 Processor,8 GB 512 GB,47990,4.2,1881,105
+96,SAMSUNG,Intel,Intel Core 5 Processor,8 GB 512 GB,68990,4.2,60,7
+97,SAMSUNG,Intel,Intel Core Ultra 5 Processor,16 GB 512 GB,131990,3.4,8,0
+98,HP,Intel,Intel Core i5 Processor,16 GB 512 GB,52990,4.2,2013,114
+99,DELL,Intel,Intel Core i5 Processor,16 GB 512 GB,52980,4.1,281,21
+100,SAMSUNG,Intel,Intel Core Ultra 7 Processor,16 GB 512 GB,149990,4.7,22,2
+101,AXL,Intel,Intel Celeron Dual Core Processor,4 GB 256 GB,17990,3.8,41,4
+102,ASUS,AMD,AMD Ryzen 5 Quad Core Processor,8 GB 512 GB,39990,4.2,1307,89
+103,Lenovo,AMD,AMD Ryzen 5 Hexa Core Processor,16 GB 512 GB,64990,3.5,4,1
+104,HP,AMD,AMD Ryzen 7 Octa Core Processor,16 GB 512 GB,48990,4.2,592,44
+105,HP,AMD,AMD Ryzen 3 Quad Core Processor,8 GB 512 GB,39631,4.2,0,0
+106,SAMSUNG,Intel,Intel Core Ultra 7 Processor,32 GB,181990,3.8,10,1
+107,SAMSUNG,Intel,Intel Core Ultra 7 Processor,32 GB,171990,3.8,10,1
+108,Primebook,MediaTek,MediaTek MT8183 Processor,4 GB,12990,4.2,186,35
+109,HP,Intel,Intel Core i3 Processor,8 GB 512 GB,38990,4.2,5495,483
+110,SAMSUNG,Intel,Intel Core 5 Processor,16 GB 512 GB,72990,4.2,60,7
+111,Lenovo,AMD,AMD Ryzen 7 Octa Core Processor,16 GB,86690,4.4,18,2
+112,Lenovo,AMD,AMD Ryzen 5 Quad Core Processor,8 GB 512 GB,35999,4.2,192,16
+113,Lenovo,AMD,AMD Ryzen 5 Hexa Core Processor,16 GB 512 GB,51990,4.2,45,5
+114,HP,AMD,AMD Ryzen 5 Hexa Core Processor,8 GB 512 GB,48990,4.2,1298,119
+115,Acer,Intel,Intel Core i5 Processor,16 GB 512 GB,43990,3.4,56,3
+116,Lenovo,Intel,Intel Core Ultra 5 Processor,16 GB,79990,4.4,80,11
+117,SAMSUNG,Intel,Intel Core Ultra 5 Processor,16 GB 512 GB,141990,4.7,3,0
+118,ZEBRONICS,Intel,Intel Core i7 Processor,16 GB 512 GB,40990,3.9,217,17
+119,ASUS,Intel,Intel Core i3 Processor,8 GB 512 GB,42990,4.3,7,1
+120,AXL,Intel,Intel Celeron Dual Core Processor,4 GB 256 GB,17990,3.8,41,4
+121,ZEBRONICS,Intel,Intel Core i7 Processor,16 GB 512 GB,40990,3.9,217,17
+122,Infinix,Intel,Intel Core i3 Processor,8 GB 512 GB,29990,4.6,56,17
+123,Lenovo,Intel,Intel Core i5 Processor,8 GB 512 GB,47190,4.1,63,2
+124,ASUS,Intel,Intel Core i5 Processor,16 GB 512 GB,69990,4.3,34,1
+125,ZEBRONICS,Intel,Intel Core i5 Processor,8 GB 512 GB,33990,3.8,433,66
+126,HP,AMD,AMD Ryzen 3 Quad Core Processor,8 GB 512 GB,39631,4.2,0,0
+127,Acer,Intel,Intel Core i5 Processor,16 GB 512 GB,62990,4.2,1712,145
+128,Infinix,Intel,Intel Celeron Quad Core Processor,8 GB 512 GB,22990,4.0,4254,584
+129,HP,Intel,Intel Core i5 Processor,16 GB 512 GB,57990,4.3,401,21
+130,Acer,Intel,Intel Core i5 Processor,16 GB 512 GB,43990,3.4,56,3
+131,HP,Intel,Intel Core i3 Processor,8 GB 512 GB,36390,4.1,266,13
+132,DELL,Intel,Intel Core i3 Processor,8 GB 512 GB,38499,3.3,15,1
+133,ASUS,Intel,Intel Celeron Quad Core Processor,4 GB 256 GB,20990,4.0,319,34
+134,HP,Intel,Intel Core i3 Processor,8 GB 512 GB,32490,3.8,86,2
+135,Acer,AMD,AMD Ryzen 3 Dual Core Processor,8 GB 512 GB,25990,4.0,509,56
+136,Lenovo,Intel,Intel Core i3 Processor,8 GB 512 GB,39990,4.2,0,0
+137,MSI,Intel,Intel Core i5 Processor,16 GB 512 GB,54990,4.2,102,14
+138,Acer,Intel,Intel Core i3 Processor,8 GB 512 GB,29990,4.2,62,5
+139,MSI,Intel,Intel Core i5 Processor,16 GB 512 GB,51990,4.1,68,8
+140,DELL,Intel,Intel Core i3 Processor,4 GB,25990,3.6,2983,443
+141,WINGS,Intel,Intel Core i3 Processor,8 GB 512 GB,24990,4.1,928,150
+142,Acer,Intel,Intel Core i5 Processor,8 GB 512 GB,51990,4.2,2083,185
+143,Lenovo,Intel,Intel Core i5 Processor,16 GB 512 GB,66990,4.2,379,46
+144,Acer,AMD,AMD Ryzen 3 Quad Core Processor,16 GB 512 GB,31990,4.0,3,0
+145,SAMSUNG,Intel,Intel Core i5 Processor,8 GB 512 GB,52990,4.3,3459,341
+146,Lenovo,AMD,AMD Ryzen 5 Hexa Core Processor,8 GB 512 GB,34800,4.2,1303,125
+147,Lenovo,Intel,Intel Core i3 Processor,8 GB 512 GB,30800,3.8,69,6
+148,Acer,Intel,Intel Core i7 Processor,16 GB 512 GB,67990,4.3,95,9
+149,DELL,AMD,AMD Ryzen 5 Hexa Core Processor,8 GB 512 GB,35990,3.8,30,2
+150,ASUS,Intel,Intel Core i3 Processor,8 GB 512 GB,40780,4.2,101,11
+151,DELL,Intel,Intel Core i3 Processor,8 GB 512 GB,36890,4.3,246,33
+152,Lenovo,AMD,AMD Ryzen 7 Octa Core Processor,24 GB 512 GB,77990,4.5,76,13
+153,ASUS,AMD,AMD Ryzen 3 Quad Core Processor,8 GB 512 GB,41990,4.4,2011,243
+154,ASUS,Intel,Intel Celeron Dual Core Processor,8 GB 512 GB,26990,4.0,555,40
+155,Acer,AMD,AMD Ryzen 5 Hexa Core Processor,8 GB 512 GB,34800,3.9,196,17
+156,Lenovo,AMD,AMD Ryzen 3 Quad Core Processor,8 GB 512 GB,29999,3.5,10,0
+157,Apple,Apple,Apple M3 Processor,8 GB 512 GB,159699,4.1,7,2
+158,Apple,Apple,Apple M2 Processor,8 GB 512 GB,108990,4.6,197,10
+159,HP,Intel,Intel Core i3 Processor,8 GB 512 GB,40999,4.2,257,16
+160,Apple,Apple,Apple M2 Processor,8 GB 512 GB,108990,4.7,107,8
+161,Apple,Apple,Apple M2 Processor,8 GB 512 GB,108990,4.8,91,7
+162,Lenovo,AMD,AMD Ryzen 3 Quad Core Processor,8 GB 512 GB,32990,4.2,0,0
+163,ASUS,AMD,AMD Ryzen 5 Quad Core Processor,8 GB 512 GB,46990,4.4,1542,144
+164,HP,Intel,Intel Core i3 Processor,8 GB 512 GB,31890,3.8,28,2
+165,ASUS,Intel,Intel Core i7 Processor,16 GB 512 GB,78990,4.3,49,3
+166,DELL,Processor, FHD WVA AG 120Hz 250 nits Narrow BorderIntel Core i5 Processor,8GB 512GB 8 GB 512 GB,46460,4.0,536,39
+167,HP,AMD,AMD Ryzen 5 Quad Core Processor,8 GB 512 GB,30999,3.9,7,0
+168,Acer,Intel,Intel Core i7 Processor,16 GB,119990,4.5,83,6
+169,ASUS,Intel,Intel Core i5 Processor,16 GB 512 GB,69990,4.2,0,0
+170,SAMSUNG,Intel,Intel Core 5 Processor,8 GB 512 GB,68990,4.2,60,7
+171,CHUWI,Intel,Intel Core i5 Processor,16 GB 512 GB,24990,4.2,146,25
+172,ASUS,AMD,AMD Ryzen 3 Quad Core Processor,8 GB 512 GB,34990,4.2,4024,417
+173,MSI,Intel,Intel Core i5 Processor,16 GB 512 GB,44990,4.2,900,109
+174,Lenovo,Intel,Intel Core i5 Processor,16 GB 512 GB,57490,4.1,21,3
+175,Lenovo,Intel,Intel Core i3 Processor,16 GB 512 GB,42990,3.8,9,0
+176,SAMSUNG,Intel,Intel Core Ultra 5 Processor,16 GB 512 GB,131990,3.4,8,0
+177,SAMSUNG,Intel,Intel Core Ultra 7 Processor,16 GB 512 GB,149990,4.7,22,2
+178,Lenovo,AMD,AMD Ryzen 7 Octa Core Processor,16 GB 512 GB,72990,4.2,0,0
+179,Acer,Intel,Intel Core i3 Processor,8 GB 512 GB,31990,4.5,13,3
+180,SAMSUNG,Intel,Intel Core 7 Processor,16 GB 512 GB,82990,4.6,25,2
+181,AXL,Intel,Intel Celeron Dual Core Processor,4 GB 256 GB,17990,3.8,41,4
+182,HP,Intel,Intel Core i5 Processor,16 GB 512 GB,50990,4.1,387,35
+183,MSI,Intel,Intel Core i5 Processor,16 GB 256 GB,71990,4.4,205,25
+184,Apple,Apple,Apple M3 Processor,8 GB 256 GB,107990,4.5,211,15
+185,Lenovo,AMD,AMD Ryzen 7 Octa Core Processor,16 GB,86690,4.4,18,2
+186,SAMSUNG,Intel,Intel Core 5 Processor,16 GB 512 GB,72990,4.2,60,7
+187,SAMSUNG,Intel,Intel Core Ultra 7 Processor,32 GB,181990,3.8,10,1
+188,SAMSUNG,Intel,Intel Core i5 Processor,16 GB 512 GB,67990,4.5,250,23
+189,ASUS,Intel,Intel Core i5 Processor,8 GB,58990,4.1,34,0
+190,SAMSUNG,Intel,Intel Core 5 Processor,8 GB 512 GB,68990,4.2,60,7
+191,SAMSUNG,Intel,Intel Core Ultra 7 Processor,32 GB,171990,3.8,10,1
+192,Acer,Intel,Intel Celeron Dual Core Processor,8 GB,16990,3.7,345,21
+193,Lenovo,Intel,Intel Core i5 Processor,12 GB 512 GB,58990,4.3,137,11
+194,Acer,Intel,Intel Core i3 Processor,8 GB 512 GB,41990,4.2,42,2
+195,Lenovo,Intel,Intel Core i5 Processor,16 GB 512 GB,75990,4.2,183,17
+196,Lenovo,Intel,Intel Core i5 Processor,16 GB 512 GB,65989,4.2,132,16
+197,ASUS,Intel,Intel Core i7 Processor,16 GB 512 GB,80990,4.3,189,26
+198,Lenovo,AMD,AMD Ryzen 7 Octa Core Processor,24 GB 512 GB,86990,4.6,23,5
+199,HP,AMD,AMD Ryzen 5 Hexa Core Processor,8 GB 512 GB,56990,4.3,1049,79
+200,MSI,Intel,Intel Core i5 Processor,16 GB 512 GB,51990,4.1,68,8
+201,Apple,Apple,Apple M2 Processor,8 GB 256 GB,93990,4.7,6612,480
+202,HP,AMD,AMD Athlon Dual Core Processor,8 GB 512 GB,26890,4.1,1318,129
+203,ASUS,Intel,Intel Core i3 Processor,8 GB 512 GB,36990,4.2,52,5
+204,DELL,Intel,Intel Core i3 Processor,8 GB 512 GB,35990,4.2,0,0
+205,HP,AMD,AMD Ryzen 5 Hexa Core Processor,8 GB 512 GB,39450,4.3,3236,255
+206,WINGS,Intel,Intel Core i3 Processor,8 GB 512 GB,24990,4.1,928,150
+207,Lenovo,AMD,AMD Ryzen 5 Hexa Core Processor,8 GB 512 GB,34990,3.8,77,7
+208,DELL,Processor, RJ45AMD Ryzen 7 Octa Core Processor,16GB 8GB 512GB 4GB 16 GB 512 GB,79990,4.2,15,3
+209,ASUS,Intel,Intel Core i5 Processor,16 GB,60990,4.7,6,0
+210,Apple,Apple,Apple M3 Processor,8 GB 256 GB,106990,4.5,211,15
+211,Lenovo,Intel,Intel Core i5 Processor,16 GB 512 GB,57350,4.4,127,11
+212,HP,AMD,AMD Ryzen 5 Quad Core Processor,8 GB 512 GB,46990,4.2,79,5
+213,HP,AMD,AMD Ryzen 3 Dual Core Processor,8 GB 512 GB,25499,4.0,59,5
+214,HP,Intel,Intel Core i7 Processor,16 GB,101430,4.2,0,0
+215,DELL,Intel,Intel Core i3 Processor,8 GB 512 GB,34990,4.0,66,10
+216,SAMSUNG,Intel,Intel Core 5 Processor,8 GB 512 GB,68990,4.2,60,7
+217,CHUWI,Intel,Intel Core i5 Processor,16 GB 512 GB,24990,4.2,146,25
+218,ASUS,Intel,Intel Core i5 Processor,16 GB 512 GB,75990,4.5,536,42
+219,HP,AMD,AMD Ryzen 3 Dual Core Processor,8 GB 512 GB,25499,3.7,106,12
+220,SAMSUNG,Intel,Intel Core Ultra 5 Processor,16 GB 512 GB,131990,3.4,8,0
+221,SAMSUNG,Intel,Intel Core Ultra 7 Processor,16 GB 512 GB,149990,4.7,22,2
+222,ASUS,Intel,Intel Core i3 Processor,8 GB 512 GB,31999,4.1,41,2
+223,HP,Intel,Intel Core i5 Processor,8 GB 512 GB,46990,4.2,91,6
+224,Acer,Intel,Intel Celeron Dual Core Processor,8 GB 512 GB,20990,3.7,59,7
+225,Lenovo,AMD,AMD Ryzen 5 Quad Core Processor,16 GB 512 GB,43490,4.0,116,6
+226,SAMSUNG,Intel,Intel Core 7 Processor,16 GB 512 GB,82990,4.6,25,2
+227,AXL,Intel,Intel Celeron Dual Core Processor,4 GB 256 GB,17990,3.8,41,4
+228,Lenovo,Intel,Intel Core i5 Processor,8 GB 512 GB,45490,4.0,45,1
+229,ASUS,Intel,Intel Core i5 Processor,16 GB 512 GB,65990,4.3,1909,192
+230,SAMSUNG,Intel,Intel Core Ultra 7 Processor,32 GB,181990,3.8,10,1
+231,SAMSUNG,Intel,Intel Core Ultra 7 Processor,32 GB,171990,3.8,10,1
+232,Lenovo,Intel,Intel Core i3 Processor,8 GB 256 GB,32007,4.2,1277,94
+233,Lenovo,Intel,Intel Core i5 Processor,8 GB 512 GB,43990,4.3,32,2
+234,Apple,Apple,Apple M2 Processor,8 GB 256 GB,93990,4.7,6612,480
+235,HP,AMD,AMD Athlon Dual Core Processor,8 GB 256 GB,25751,4.1,3751,294
+236,SAMSUNG,Intel,Intel Core 7 Processor,16 GB 512 GB,82990,4.6,25,2
+237,SAMSUNG,Intel,Intel Core 5 Processor,16 GB 512 GB,72990,4.2,60,7
+238,ASUS,Intel,Intel Core i7 Processor,16 GB,82990,4.3,104,12
+239,Lenovo,AMD,AMD Ryzen 5 Quad Core Processor,24 GB 512 GB,66990,4.3,26,1
+240,Apple,Apple,Apple M3 Processor,8 GB 256 GB,107990,4.5,211,15
+241,HP,Intel,Intel Core i5 Processor,16 GB 512 GB,63990,4.3,1791,146
+242,Lenovo,Intel,Intel Core Ultra 5 Processor,16 GB,79990,4.4,80,11
+243,ASUS,AMD,AMD Ryzen 5 Quad Core Processor,8 GB 512 GB,43990,4.4,13,1
+244,HP,Intel,Intel Core i7 Processor,16 GB 512 GB,96990,4.6,72,12
+245,DELL,Intel,Intel Core i5 Processor,8 GB 512 GB,44990,4.1,63,0
+246,HP,Intel,Intel Core i3 Processor,8 GB 512 GB,40990,4.5,14,2
+247,Avita,Intel,Intel Celeron Dual Core Processor,4 GB 128 GB,13990,3.6,1376,174
+248,WINGS,Intel,Intel Core i3 Processor,8 GB 256 GB,23990,4.1,928,150
+249,ASUS,Intel,Intel Core i5 Processor,8 GB 512 GB,54990,3.9,21,1
+250,ASUS,AMD,AMD Ryzen 5 Quad Core Processor,16 GB 512 GB,50990,4.3,124,11
+251,Infinix,Intel,Intel Core i7 Processor,16 GB 512 GB,49990,4.4,31,0
+252,ASUS,Intel,Intel Core i7 Processor,16 GB,82990,4.3,104,12
+253,ASUS,Intel,Intel Core i3 Processor,8 GB 512 GB,31999,4.1,41,2
+254,ASUS,Intel,Intel Pentium Gold Processor,8 GB 512 GB,27990,4.2,0,0
+255,DELL,Intel,Intel Core i5 Processor,8 GB 512 GB,48890,4.2,52,3
+256,Lenovo,Intel,Intel Core i7 Processor,16 GB 512 GB,57724,4.4,9,2
+257,Lenovo,Intel,Intel Core i5 Processor,16 GB 512 GB,51990,4.1,1741,134
+258,HP,AMD,AMD Ryzen 3 Dual Core Processor,8 GB 512 GB,25499,3.8,294,21
+259,HP,Intel,Intel Core i5 Processor,16 GB 512 GB,89990,4.3,138,17
+260,Infinix,Intel,Intel Celeron Quad Core Processor,8 GB 256 GB,24990,4.2,4399,599
+261,HP,AMD,AMD Athlon Dual Core Processor,8 GB 256 GB,25446,4.1,3751,294
+262,Acer,AMD,AMD Ryzen 7 Octa Core Processor,16 GB 512 GB,41990,3.4,17,1
+263,ASUS,Intel,Intel Core i5 Processor,8 GB 512 GB,47990,4.2,1881,105
+264,Lenovo,Intel,Intel Core i5 Processor,8 GB 512 GB,45490,4.0,45,1
+265,ASUS,AMD,AMD Ryzen 5 Quad Core Processor,8 GB 512 GB,46990,4.4,1542,144
+266,SAMSUNG,Intel,Intel Core 5 Processor,8 GB 512 GB,68990,4.2,60,7
+267,SAMSUNG,Intel,Intel Core Ultra 5 Processor,16 GB 512 GB,131990,3.4,8,0
+268,HP,Intel,Intel Core i7 Processor,16 GB 512 GB,77990,4.3,213,19
+269,Acer,Intel,Intel Core i3 Processor,8 GB 256 GB,26990,4.0,4,0
+270,AXL,Intel,Intel Celeron Dual Core Processor,4 GB 256 GB,17990,3.8,41,4
+271,SAMSUNG,Intel,Intel Core Ultra 7 Processor,16 GB 512 GB,149990,4.7,22,2
+272,ASUS,Intel,Intel Core i7 Processor,16 GB,125990,4.3,19,3
+273,HP,Intel,Intel Core i5 Processor,16 GB 512 GB,68990,4.3,165,8
+274,ASUS,AMD,AMD Ryzen 7 Octa Core Processor,16 GB 512 GB,65990,4.3,502,49
+275,DELL,Intel,Intel Core i3 Processor,4 GB,30535,3.7,317,48
+276,SAMSUNG,Intel,Intel Core 7 Processor,16 GB 512 GB,82990,4.6,25,2
+277,SAMSUNG,Intel,Intel Core 5 Processor,16 GB 512 GB,72990,4.2,60,7
+278,Infinix,Intel,Intel Core i3 Processor,8 GB 256 GB,35990,4.3,3895,457
+279,Infinix,Intel,Intel Core i7 Processor,16 GB 512 GB,57990,3.9,78,17
+280,SAMSUNG,Intel,Intel Core Ultra 7 Processor,32 GB,181990,3.8,10,1
+281,SAMSUNG,Intel,Intel Core 5 Processor,8 GB 512 GB,68990,4.2,60,7
+282,Lenovo,Intel,Intel Core i3 Processor,8 GB 256 GB,34990,4.2,1165,84
+283,HP,AMD,AMD Athlon Dual Core Processor,4 GB 256 GB,20890,3.9,37,3
+284,ZEBRONICS,Intel,Intel Core i7 Processor,16 GB,43990,3.9,217,17
+285,Apple,Apple,Apple M3 Processor,8 GB 512 GB,126890,4.5,211,15
+286,SAMSUNG,Intel,Intel Core Ultra 7 Processor,32 GB,171990,3.8,10,1
+287,SAMSUNG,Intel,Intel Core 7 Processor,16 GB 512 GB,82990,4.6,25,2
+288,ASUS,Intel,Intel Celeron Dual Core Processor,8 GB 256 GB,23480,3.9,231,11
+289,HP,AMD,AMD Ryzen 5 Dual Core Processor,8 GB 512 GB,48490,4.5,1599,170
+290,SAMSUNG,Intel,Intel Core 5 Processor,8 GB 512 GB,68990,4.2,60,7
+291,CHUWI,Intel,Intel Core i5 Processor,16 GB 512 GB,24990,4.2,146,25
+292,Avita,Intel,Intel Celeron Dual Core Processor,4 GB 128 GB,13990,3.6,1376,174
+293,DELL,Intel,Intel Core i5 Processor,8 GB 512 GB,50250,3.3,15,3
+294,Infinix,Intel,Intel Celeron Quad Core Processor,4 GB 128 GB,19990,4.0,1558,209
+295,HP,AMD,AMD Ryzen 7 Octa Core Processor,16 GB 512 GB,49990,4.2,592,44
+296,SAMSUNG,Intel,Intel Core Ultra 5 Processor,16 GB 512 GB,131990,3.4,8,0
+297,SAMSUNG,Intel,Intel Core Ultra 7 Processor,16 GB 512 GB,149990,4.7,22,2
+298,HP,Intel,Intel Celeron Dual Core Processor,4 GB,19990,3.9,1297,115
+299,MSI,Intel,Intel Core i5 Processor,16 GB 512 GB,45990,4.2,900,109
+300,SAMSUNG,Intel,Intel Core 7 Processor,16 GB 512 GB,82990,4.6,25,2
+301,AXL,Intel,Intel Celeron Dual Core Processor,4 GB 256 GB,17990,3.8,41,4
+302,Apple,Apple,Apple M2 Max Processor,32 GB,282990,5.0,4,0
+303,MSI,Intel,Intel Core i5 Processor,8 GB 512 GB,72990,4.2,0,0
+304,DELL,Intel,Intel Core i7 Processor,16 GB 512 GB,109990,4.2,0,0
+305,Lenovo,AMD,AMD Ryzen 3 Quad Core Processor,8 GB 512 GB,29490,4.1,598,45
+306,SAMSUNG,Intel,Intel Core Ultra 7 Processor,32 GB,181990,3.8,10,1
+307,SAMSUNG,Intel,Intel Core Ultra 7 Processor,32 GB,171990,3.8,10,1
+308,SAMSUNG,Intel,Intel Core i7 Processor,16 GB 512 GB,77990,4.5,28,2
+309,Lenovo,Intel,Intel Core i5 Processor,16 GB 512 GB,74990,4.3,256,24
+310,SAMSUNG,Intel,Intel Core 7 Processor,16 GB 512 GB,82990,4.6,25,2
+311,SAMSUNG,Intel,Intel Core 5 Processor,16 GB 512 GB,72990,4.2,60,7
+312,SAMSUNG,Intel,Intel Core i5 Processor,8 GB 512 GB,52990,4.3,3459,341
+313,ASUS,Intel,Intel Celeron Dual Core Processor,4 GB,18990,3.8,1589,144
+314,ASUS,Intel,Intel Core i5 Processor,16 GB 512 GB,59950,4.2,0,0
+315,Lenovo,AMD,AMD Ryzen 3 Hexa Core Processor,8 GB 512 GB,32990,4.2,30,4
+316,SAMSUNG,Intel,Intel Core 5 Processor,8 GB 512 GB,68990,4.2,60,7
+317,SAMSUNG,Intel,Intel Core Ultra 5 Processor,16 GB 512 GB,131990,3.4,8,0
+318,MSI,Intel,Intel Core i3 Processor,16 GB 512 GB,38990,4.3,537,65
+319,ASUS,AMD,AMD Ryzen 3 Quad Core Processor,8 GB 512 GB,33990,4.2,4024,417
+320,SAMSUNG,Intel,Intel Core Ultra 7 Processor,16 GB 512 GB,149990,4.7,22,2
+321,AXL,Intel,Intel Celeron Dual Core Processor,4 GB 256 GB,17990,3.8,41,4
+322,ASUS,AMD,AMD Ryzen 3 Quad Core Processor,8 GB 512 GB,33990,4.2,4024,417
+323,DELL,AMD,AMD Ryzen 3 Dual Core Processor,8 GB 256 GB,37500,4.1,183,21
+324,Lenovo,Intel,Intel Core i7 Processor,16 GB 512 GB,79980,4.2,0,0
+325,walker,Intel,Intel Celeron Dual Core Processor,4 GB 128 GB,12990,3.7,1129,158
+326,SAMSUNG,Intel,Intel Core Ultra 7 Processor,32 GB,181990,3.8,10,1
+327,SAMSUNG,Intel,Intel Core Ultra 7 Processor,32 GB,171990,3.8,10,1
+328,Lenovo,AMD,AMD Ryzen 5 Quad Core Processor,8 GB 512 GB,35400,4.2,811,83
+329,ASUS,AMD,AMD Ryzen 7 Octa Core Processor,16 GB 512 GB,66990,4.2,286,23
+330,SAMSUNG,Intel,Intel Core 5 Processor,16 GB 512 GB,72990,4.2,60,7
+331,Lenovo,AMD,AMD Ryzen 7 Octa Core Processor,16 GB,86690,4.4,18,2
+332,ASUS,AMD,AMD Ryzen 5 Processor,16 GB 512 GB,65990,4.2,0,0
+333,MICROSOFT,Intel,Intel Core i7 Processor,32 GB,261990,4.2,0,0
+334,Infinix,Intel,Intel Core i7 Processor,32 GB 512 GB,49990,4.2,0,0
+335,Acer,Intel,Intel Core i7 Processor,16 GB 512 GB,50990,4.8,15,1
+336,SAMSUNG,Intel,Intel Core 5 Processor,8 GB 512 GB,68990,4.2,60,7
+337,SAMSUNG,Intel,Intel Core Ultra 5 Processor,16 GB 512 GB,131990,3.4,8,0
+338,DELL,Intel,Intel Core i5 Processor,16 GB,61990,4.1,147,4
+339,Lenovo,AMD,AMD Ryzen 5 Hexa Core Processor,16 GB 512 GB,41990,4.2,95,15
+340,SAMSUNG,Intel,Intel Core Ultra 7 Processor,16 GB 512 GB,149990,4.7,22,2
+341,SAMSUNG,Intel,Intel Core 7 Processor,16 GB 512 GB,82990,4.6,25,2
+342,Lenovo,AMD,AMD Ryzen 5 Hexa Core Processor,16 GB 512 GB,38350,4.2,4211,409
+343,Lenovo,Intel,Intel Core i5 Processor,8 GB 512 GB,45990,3.1,12,1
+344,HP,Intel,Intel Core i5 Processor,16 GB 512 GB,68990,4.7,15,1
+345,HP,Intel,Intel Core i5 Processor,8 GB 512 GB,79990,4.3,114,16
+346,AXL,Intel,Intel Celeron Dual Core Processor,4 GB 256 GB,17990,3.8,41,4
+347,SAMSUNG,Intel,Intel Core Ultra 7 Processor,32 GB,181990,3.8,10,1
+348,Lenovo,Intel,Intel Core Ultra 5 Processor,16 GB,100990,4.2,0,0
+349,Lenovo,AMD,AMD Ryzen 3 Quad Core Processor,8 GB 512 GB,32990,4.3,996,119
+350,SAMSUNG,Intel,Intel Core Ultra 7 Processor,32 GB,171990,3.8,10,1
+351,SAMSUNG,Intel,Intel Core 7 Processor,16 GB 512 GB,82990,4.6,25,2
+352,DELL,Processor,micIntel Core i5 Processor,16GB 512GB 4GB 16 GB 512 GB,69990,4.1,327,33
+353,MSI,Intel,Intel Core i3 Processor,8 GB 512 GB,35990,4.3,537,65
+354,HP,Intel,Intel Core i3 Processor,8 GB 512 GB,32400,4.1,233,12
+355,Lenovo,Intel,Intel Core i5 Processor,8 GB 512 GB,46990,4.2,619,53
+356,SAMSUNG,Intel,Intel Core 5 Processor,16 GB 512 GB,72990,4.2,60,7
+357,Lenovo,AMD,AMD Ryzen 7 Octa Core Processor,16 GB,86690,4.4,18,2
+358,HP,Intel,Intel Core i3 Processor,8 GB 512 GB,40990,4.1,131,13
+359,Acer,Intel,Intel Core i3 Processor,8 GB 512 GB,29990,4.2,62,5
+360,SAMSUNG,Intel,Intel Core 5 Processor,8 GB 512 GB,68990,4.2,60,7
+361,SAMSUNG,Intel,Intel Core Ultra 5 Processor,16 GB 512 GB,131990,3.4,8,0
+362,HP,Intel,Intel Core i5 Processor,16 GB 512 GB,63990,4.2,2186,165
+363,ASUS,AMD,AMD Ryzen 3 Quad Core Processor,8 GB 512 GB,35990,4.2,0,0
+364,MSI,Intel,Intel Core i5 Processor,16 GB 512 GB,62990,4.6,14,1
+365,HP,Intel,Intel Core i5 Processor,8 GB 512 GB,53990,4.2,309,28
+366,SAMSUNG,Intel,Intel Core Ultra 7 Processor,16 GB 512 GB,149990,4.7,22,2
+367,SAMSUNG,Intel,Intel Core 7 Processor,16 GB 512 GB,82990,4.6,25,2
+368,HP,AMD,AMD Ryzen 5 Hexa Core Processor,16 GB 512 GB,53240,4.1,57,3
+369,Lenovo,AMD,AMD Ryzen 5 Quad Core Processor,12 GB 512 GB,63990,4.3,26,1
+370,AXL,Intel,Intel Celeron Dual Core Processor,4 GB 256 GB,17990,3.8,41,4
+371,SAMSUNG,Intel,Intel Core Ultra 7 Processor,32 GB,181990,3.8,10,1
+372,MSI,Intel,Intel Core i7 Processor,16 GB 512 GB,51990,4.2,0,0
+373,SAMSUNG,Intel,Intel Core i5 Processor,8 GB 512 GB,63990,4.5,250,23
+374,ASUS,Intel,Intel Core i5 Processor,16 GB 512 GB,76990,4.4,109,15
+375,ASUS,Intel,Intel Core i5 Processor,16 GB 512 GB,69990,4.3,34,1
+376,SAMSUNG,Intel,Intel Core Ultra 7 Processor,32 GB,171990,3.8,10,1
+377,SAMSUNG,Intel,Intel Core 7 Processor,16 GB 512 GB,82990,4.6,25,2
+378,ASUS,Intel,Intel Core i3 Processor,8 GB 512 GB,27990,4.3,12601,1187
+379,Lenovo,AMD,AMD Ryzen 3 Quad Core Processor,8 GB 512 GB,40990,4.2,0,0
+380,SAMSUNG,Intel,Intel Core 5 Processor,16 GB 512 GB,72990,4.2,60,7
+381,Lenovo,AMD,AMD Ryzen 7 Octa Core Processor,16 GB,86690,4.4,18,2
+382,DELL,Intel,Intel Core i5 Processor,16 GB 512 GB,74999,4.2,0,0
+383,MSI,Intel,Intel Core i7 Processor,16 GB 512 GB,54990,4.2,0,0
+384,Apple,Apple,Apple M3 Max Processor,36 GB,299990,4.2,0,0
+385,DELL,AMD,AMD Ryzen 9 Octa Core Processor,16 GB,94990,2.8,4,0
+386,ASUS,AMD,AMD Ryzen 7 Octa Core Processor,8 GB 512 GB,58990,3.7,22,1
+387,Acer,Intel,Intel Core i7 Processor,16 GB,72990,4.3,95,9
+388,Lenovo,AMD,AMD Ryzen 7 Octa Core Processor,16 GB 512 GB,52990,3.9,64,6
+389,Apple,Apple,Apple M3 Processor,8 GB 512 GB,126890,4.5,211,15
+390,Lenovo,Intel,Intel Core i3 Processor,8 GB 512 GB,39490,4.2,1149,65
+391,Acer,AMD,AMD Ryzen 5 Hexa Core Processor,8 GB,73039,4.2,0,0
+392,ASUS,Intel,Intel Core i5 Processor,16 GB 512 GB,58990,4.2,105,9
+393,HP,Intel,Intel Core i5 Processor,16 GB 512 GB,63990,4.2,2186,165
+394,ASUS,AMD,AMD Ryzen 5 Quad Core Processor,16 GB 512 GB,42990,4.2,0,0
+395,ASUS,Intel,Intel Core i5 Processor,16 GB 512 GB,69990,4.2,0,0
+396,HP,AMD,AMD Ryzen 5 Hexa Core Processor,16 GB 512 GB,43800,4.2,788,62
+397,ASUS,Intel,Intel Core i3 Processor,8 GB 512 GB,35990,4.6,14,2
+398,Lenovo,Intel,Intel Core i7 Processor,16 GB 512 GB,109990,4.3,335,46
+399,HP,Intel,Intel Core i5 Processor,8 GB 512 GB,63990,4.4,407,55
+400,HP,Intel,Intel Core N Processor,4 GB,36307,4.2,0,0
+401,Colorful,Intel,Intel Core i5 Processor,16 GB 512 GB,68990,4.2,39,5
+402,Lenovo,Intel,Intel Core i7 Processor,16 GB,125990,4.8,4,0
+403,HP,AMD,AMD Ryzen 5 Hexa Core Processor,16 GB 512 GB,54990,4.3,406,38
+404,DELL,Processor, Dell Active PenIntel Core i5 Processor,8GB 512GB 8 GB 512 GB,69990,4.4,36,3
+405,DELL,Intel,Intel Core i5 Processor,8 GB,61890,3.9,84,11
+406,HP,Intel,Intel Core i5 Processor,8 GB 512 GB,54990,4.3,401,21
+407,Lenovo,Intel,Intel Core i5 Processor,8 GB 512 GB,49800,4.0,125,15
+408,CHUWI,Intel,Intel Celeron Dual Core Processor,8 GB 256 GB,18990,3.7,596,76
+409,Lenovo,Intel,Intel Core i3 Processor,4 GB,33500,3.9,127,13
+410,SAMSUNG,Intel,Intel Core 5 Processor,8 GB 512 GB,68990,4.2,60,7
+411,SAMSUNG,Intel,Intel Core Ultra 5 Processor,16 GB 512 GB,131990,3.4,8,0
+412,Infinix,Intel,Intel Core i7 Processor,16 GB 512 GB,57990,3.9,78,17
+413,DELL,AMD,AMD Ryzen 9 Octa Core Processor,16 GB,94990,2.8,4,0
+414,Acer,Intel,Intel Core i5 Processor,8 GB,52891,3.9,25,6
+415,Apple,Apple,Apple M3 Max Processor,36 GB,299990,4.2,0,0
+416,SAMSUNG,Intel,Intel Core Ultra 7 Processor,16 GB 512 GB,149990,4.7,22,2
+417,SAMSUNG,Intel,Intel Core Ultra 7 Processor,32 GB,181990,3.8,10,1
+418,HP,Intel,Intel Core i7 Processor,16 GB 512 GB,79990,4.4,139,14
+419,Acer,Intel,Intel Core i7 Processor,16 GB,54990,4.8,15,1
+420,SAMSUNG,Intel,Intel Core Ultra 7 Processor,32 GB,171990,3.8,10,1
+421,Lenovo,AMD,AMD Ryzen 7 Octa Core Processor,16 GB,86690,4.4,18,2
+422,Apple,Apple,Apple M3 Processor,8 GB 512 GB,126890,4.5,211,15
+423,Lenovo,Intel,Intel Core i3 Processor,8 GB 512 GB,39490,4.2,1149,65
+424,HP,AMD,AMD Ryzen 5 Hexa Core Processor,16 GB 512 GB,43800,4.2,788,62
+425,DELL,Intel,Intel Core i3 Processor,8 GB 512 GB,40990,4.1,71,3
+426,SAMSUNG,Intel,Intel Core 5 Processor,16 GB 512 GB,72990,4.2,60,7
+427,Lenovo,Intel,Intel Core Ultra 5 Processor,16 GB,79990,4.4,80,11
+428,ASUS,Intel,Intel Core i5 Processor,16 GB 512 GB,58990,4.2,105,9
+429,MSI,Intel,Intel Core i5 Processor,16 GB,87990,4.5,17,1
+430,SAMSUNG,Intel,Intel Core Ultra 5 Processor,16 GB 512 GB,141990,4.7,3,0
+431,ASUS,Intel,Intel Core i7 Processor,16 GB,98063,3.0,3,1
+432,DELL,Intel,Intel Core i5 Processor,8 GB 256 GB,51299,4.1,87,11
+433,HP,Intel,Intel Core i5 Processor,16 GB,66990,4.2,47,2
+434,HP,Intel,Intel Core i5 Processor,8 GB 512 GB,63990,4.4,407,55
+435,HP,Intel,Intel Core i5 Processor,8 GB 512 GB,54990,4.3,401,21
+436,HP,AMD,AMD Ryzen 3 Quad Core Processor,8 GB 512 GB,37999,4.3,203,26
+437,ASUS,AMD,AMD Ryzen 5 Quad Core Processor,16 GB 512 GB,42990,4.3,8,0
+438,Lenovo,Intel,Intel Core i5 Processor,16 GB 512 GB,54999,4.0,17,3
+439,Apple,Apple,Apple M3 Processor,8 GB 256 GB,107990,4.5,211,15
+440,Lenovo,Intel,Intel Celeron Dual Core Processor,8 GB 256 GB,27890,3.6,10,2
+441,ASUS,Intel,Intel Core i3 Processor,8 GB 512 GB,35990,4.6,14,2
+442,Lenovo,Intel,Intel Core i5 Processor,16 GB 512 GB,57490,4.4,153,19
+443,DELL,Intel,Intel Core i5 Processor,8 GB,61890,3.9,84,11
+444,Infinix,Intel,Intel Core i3 Processor,8 GB 512 GB,29990,4.1,1390,190
+445,Lenovo,Intel,Intel Core i5 Processor,8 GB 512 GB,49800,4.0,125,15
+446,Acer,Intel,Intel Core i5 Processor,8 GB 512 GB,68990,4.4,676,69
+447,Lenovo,Intel,Intel Core i7 Processor,16 GB,125990,4.8,4,0
+448,Lenovo,Intel,Intel Core i3 Processor,8 GB 512 GB,57990,4.4,39,3
+449,MSI,Intel,Intel Core i5 Processor,8 GB 512 GB,56990,4.3,592,49
+450,ASUS,Intel,Intel Core i7 Processor,16 GB 512 GB,109990,4.4,5,0
+451,MSI,AMD,AMD Ryzen 5 Hexa Core Processor,8 GB 512 GB,42890,4.3,1873,233
+452,ASUS,AMD,AMD Ryzen 7 Octa Core Processor,16 GB,69990,4.4,263,26
+453,DELL,Intel,Intel Core i5 Processor,8 GB 512 GB,53490,4.1,147,4
+454,HP,Intel,Intel Core i3 Processor,8 GB 512 GB,40899,4.2,0,0
+455,ASUS,AMD,AMD Ryzen 5 Hexa Core Processor,16 GB 512 GB,69899,4.2,0,0
+456,HP,AMD,AMD Ryzen 5 Hexa Core Processor,8 GB 512 GB,48990,4.3,1544,147
+457,HP,AMD,AMD Ryzen 5 Quad Core Processor,16 GB 512 GB,49490,4.2,0,0
+458,ASUS,Intel,Intel Core i5 Processor,16 GB 512 GB,64990,5.0,4,1
+459,MSI,Intel,Intel Core Ultra 7 Processor,16 GB,111990,4.2,0,0
+460,MSI,Intel,Intel Core i3 Processor,8 GB 512 GB,37990,4.2,12,0
+461,MSI,Intel,Intel Core i3 Processor,8 GB 512 GB,45990,4.2,12,0
+462,CHUWI,Display,2 touchscreen displayProcessor 0 data Transmission1MP HD CamCompact and PortableIntel Core i3 Processor,12GB 512GB 12 GB 512 GB,37990,4.1,131,34
+463,GIGABYTE,Intel,Intel Core i5 Processor,16 GB 512 GB,79990,4.2,0,0
+464,MICROSOFT,Qualcomm,Qualcomm Snapdragon X Plus Processor,16 GB 512 GB,131990,4.2,0,0
+465,HP,Intel,Intel Core i5 Processor,8 GB 512 GB,52990,4.0,224,19
+466,DELL,Intel,Intel Core i5 Processor,16 GB 512 GB,36607,4.1,23,5
+467,SAMSUNG,Intel,Intel Core i7 Processor,16 GB 512 GB,117990,4.2,10,0
+468,Infinix,Intel,Intel Core i7 Processor,16 GB 512 GB,46990,4.3,123,14
+469,HP,Intel,Intel Core i5 Processor,8 GB 512 GB,49990,4.2,71,2
+470,HP,Intel,Intel Core i5 Processor,16 GB 512 GB,80990,4.4,47,8
+471,Lenovo,AMD,AMD Ryzen 7 Octa Core Processor,16 GB 512 GB,83990,4.1,200,21
+472,ASUS,Intel,Intel Core i5 Processor,16 GB 512 GB,73990,3.7,3,0
+473,Lenovo,AMD,AMD Ryzen 3 Quad Core Processor,8 GB 512 GB,32990,4.0,267,13
+474,HP,AMD,AMD Ryzen 7 Octa Core Processor,16 GB 512 GB,82990,4.5,227,18
+475,Lenovo,AMD,AMD Ryzen 7 Octa Core Processor,16 GB,94190,4.2,0,0
+476,MSI,Intel,Intel Core i5 Processor,8 GB 512 GB,51990,4.2,102,14
+477,HP,Intel,Intel Core i3 Processor,8 GB,48247,4.2,0,0
+478,MSI,Intel,Intel Core i7 Processor,16 GB 512 GB,79990,4.7,3,0
+479,DELL,Intel,Intel Core i3 Processor,8 GB 512 GB,36990,3.8,36,4
